@@ -38,3 +38,6 @@ LG3802 S1でLevelが-50dBmの時の結果を表にまとめた。
 |30dB|40dB|28dB|-60dBm|
 |30dB|30dB|25dB|-65dBm|
 |30dB|20dB|20dB|-65dBm|
+
+## 注意点
+Oversampleの値を上げておかないとSNRが落ちる。 (Oversample=1のとき5dB程度)
