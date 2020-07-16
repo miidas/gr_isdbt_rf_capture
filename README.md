@@ -1,12 +1,12 @@
 # gr_isdbt_rf_capture
 ## 使用機材
-### LEADER LG3802 S1
+#### LEADER LG3802 S1
 ISDB-T シグナルジェネレータ
 
-### Siano SMS2270 USB Dongle
+#### Siano SMS2270 USB Dongle
 ISDB-T 受信機
 
-### Lime Microsystems LimeSDR
+#### Lime Microsystems LimeSDR
 SDRボード
 
 ## Sample Rate設定
