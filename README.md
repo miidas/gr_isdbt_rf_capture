@@ -1,4 +1,6 @@
 # gr_isdbt_rf_capture
+ISDB-Tの受信と再送信  
+
 ## 使用機材
 #### LEADER LG3802 S1
 ISDB-T シグナルジェネレータ
